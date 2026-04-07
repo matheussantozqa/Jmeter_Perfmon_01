@@ -98,10 +98,10 @@
           </UniformRandomTimer>
           <hashTree/>
         </hashTree>
-        <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Therms" enabled="true">
+        <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Therms">
           <stringProp name="delimiter">,</stringProp>
           <stringProp name="fileEncoding"></stringProp>
-          <stringProp name="filename">C:/Users/User/Desktop/TI/QA/DEVELOPMENT/Jmeter/Planilha sem título - Página1.csv</stringProp>
+          <stringProp name="filename">C:/Users/User/Desktop/TI/QA/DEVELOPMENT/Jmeter/Test plan Google/Data sheets.csv</stringProp>
           <boolProp name="ignoreFirstLine">false</boolProp>
           <boolProp name="quotedData">false</boolProp>
           <boolProp name="recycle">true</boolProp>
